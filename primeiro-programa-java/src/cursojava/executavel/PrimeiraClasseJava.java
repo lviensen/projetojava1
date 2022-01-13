@@ -3,6 +3,6 @@ package cursojava.executavel;
 public class PrimeiraClasseJava {
 
 	public static void main(String[] args) {
-		System.out.println("Meu primeiro projedo com o Eclipse 2022");
+		System.out.println("Alteração para commit");
 	}
 }
