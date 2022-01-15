@@ -5,7 +5,15 @@ public class Pessoa {
 	private String nome;
 	private String sobrenome;
 	private int Idade;
+	private String rua;
 	
+	
+	public String getRua() {
+		return rua;
+	}
+	public void setRua(String rua) {
+		this.rua = rua;
+	}
 	public int getIdade() {
 		return Idade;
 	}
